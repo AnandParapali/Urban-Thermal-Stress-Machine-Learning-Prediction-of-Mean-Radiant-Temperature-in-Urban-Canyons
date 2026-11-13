@@ -38,3 +38,6 @@ This repository follows rigorous version control standards, maintaining clean in
 - **Data Engineering Phase:** Integration of Google Earth Engine harvesting scripts, spatial resampling to 30m UTM grids, and Apache Parquet tabular compilation.
 - **Model Optimization Phase:** Implementation of grid-search hyperparameter tuning across 6 distinct variants for both XGBoost and Random Forest.
 - **Deployment Phase:** Integration of the Streamlit interactive front-end (`app.py`), dynamic spatial inference triggers, and automated metric plotting modules.
+
+  git clone https://github.com/AnandParapali/Urban-Thermal-Stress-Machine-Learning-Prediction-of-Mean-Radiant-Temperature-in-Urban-Canyons.git
+cd Urban-Thermal-Stress-Machine-Learning-Prediction-of-Mean-Radiant-Temperature-in-Urban-Canyons
