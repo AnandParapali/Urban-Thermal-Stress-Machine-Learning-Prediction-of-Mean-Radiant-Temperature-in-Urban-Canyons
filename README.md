@@ -35,7 +35,6 @@ Follow these instructions to configure your local development environment and ru
 
 This repository follows rigorous version control standards, maintaining clean incremental commits across development phases:
 - **Initial Commit:** Repository initialization, directory scaffolding, and environment configuration files.
-- **Data Engineering Phase:** Integration of Google Earth Engine harvesting scripts, spatial resampling to 30m UTM grids, and Apache Parquet tabular compilation.
-- **Model Optimization Phase:** Implementation of grid-search hyperparameter tuning across 6 distinct variants for both XGBoost and Random Forest.
+- **Data Engineering Phase:** Process of acquiring satellite data, spatial resampling to 30m UTM grids, and Apache Parquet tabular compilation.
 - **Deployment Phase:** Integration of the Streamlit interactive front-end (`app.py`), dynamic spatial inference triggers, and automated metric plotting modules.
 
