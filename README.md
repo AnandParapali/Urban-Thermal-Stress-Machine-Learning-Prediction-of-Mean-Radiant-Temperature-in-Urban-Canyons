@@ -1,4 +1,4 @@
-## 🚀 2. Installation & Setup Guide
+## 1. Installation & Setup Guide
 
 Follow these instructions to configure your local development environment and run the system locally.
 
@@ -21,7 +21,7 @@ Follow these instructions to configure your local development environment and ru
 
 ---
 
-## 📚 3. Technical Documentation & System Overview
+## 2. Technical Documentation & System Overview
 
 ### Core Architecture & Methodology
 - **Feature Engineering:** Combines 2D remote sensing indices (NDVI, NDBI, Built-Vegetation ratios) with 3D structural parameters (building heights, Floor Area Ratio, Sky View Factors) extracted via Google Earth Engine and ESRI imagery processing.
@@ -31,7 +31,7 @@ Follow these instructions to configure your local development environment and ru
 
 ---
 
-## ⏱️ 4. Version History & Commit Practices
+## 3. Version History & Commit Practices
 
 This repository follows rigorous version control standards, maintaining clean incremental commits across development phases:
 - **Initial Commit:** Repository initialization, directory scaffolding, and environment configuration files.
