@@ -1,4 +1,4 @@
-🚀 2. Installation & Setup Guide
+##1. Installation & Setup Guide
 Follow these instructions to configure your local development environment and run the system locally.
 
 Prerequisites
