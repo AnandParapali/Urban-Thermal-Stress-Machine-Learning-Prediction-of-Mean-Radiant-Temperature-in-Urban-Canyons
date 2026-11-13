@@ -8,16 +8,22 @@ Follow these instructions to configure your local development environment and ru
 
 ### Step-by-Step Installation
 1. Clone the repository:
+   ```bash
    git clone https://github.com/AnandParapali/Urban-Thermal-Stress-Machine-Learning-Prediction-of-Mean-Radiant-Temperature-in-Urban-Canyons.git
    cd Urban-Thermal-Stress-Machine-Learning-Prediction-of-Mean-Radiant-Temperature-in-Urban-Canyons
+   ```
 
 2. Install all required dependencies:
+   ```bash
    pip install -r requirements.txt
+   ```
 
 3. Verify model artifacts and parquet datasets are correctly placed inside their respective directories (`models/` and `data/`).
 
 4. Launch the interactive visualization dashboard:
+  ```bash
    streamlit run app.py
+   ```
 
 ---
 
