@@ -32,7 +32,7 @@ Follow these instructions to configure your local development environment and ru
 ### Core Architecture & Methodology
 - **Feature Engineering:** Combines 2D remote sensing indices with 3D structural parameters (building heights, Floor Area Ratio, Sky View Factors) extracted via Google Earth Engine and ESRI imagery processing.
 - **Ground-Truth Target Generation:** Leverages Copernicus GLO-30 Digital Elevation Models combined with meteorological drivers processed through QGIS and the UMEP/SOLWEIG framework to establish accurate Mean Radiant Temperature ($T_{mrt}$) reference grids.
-- **Surrogate Modeling Engine:** Employs optimized learning algorithms (**XGBoost** and **Random Forest**) trained across historical temporal window.
+- **Models used:** Employs optimized learning algorithms (**XGBoost** and **Random Forest**) trained across historical temporal window.
 - **Performance Benchmark:** The optimized regularized XGBoost configuration achieves an outstanding coefficient of determination ($R^2$) and  RMSE  on  evaluations.
 
 
