@@ -22,7 +22,7 @@ Follow these instructions to configure your local development environment and ru
 
 4. Launch the interactive visualization dashboard:
   ```bash
-   streamlit run app.py
+   streamlit run appv08.py
    ```
 
 ---
